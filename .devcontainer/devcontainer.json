@@ -11,6 +11,7 @@
 			"minikube": "none"
 		},
 		"ghcr.io/dhoeric/features/google-cloud-cli:1": {},
+		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
 		"ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {
 			"plugins": "npm kubectl kubectx git",
 			"omzPlugins": "https://github.com/zsh-users/zsh-autosuggestions",
